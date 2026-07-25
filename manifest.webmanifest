@@ -1,0 +1,15 @@
+{
+  "name": "Mid-Term Sprint",
+  "short_name": "Sprint",
+  "description": "Exam-sprint tracker: countdown, per-topic confidence, study timer and a repeating weekly plan.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101216",
+  "theme_color": "#101216",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
